@@ -9,3 +9,4 @@ The Ardiuno is enclosed in a cat shaped display with pressure sensitivity - [dem
 # You've Been Notified
 Create a time based installation exhibit.
 A motor moves lights while the LED display tracks time. [demo](https://youtu.be/myoxRWpmVQM)
+![gif of controlled light switch](./arduinoservoswitchlights-ANIMATION.gif)
